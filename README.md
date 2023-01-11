@@ -1,9 +1,10 @@
 ## Git Practical
 
 ## Branch
---Main(Master)
---Login
---Feature
+
+Main(Master)
+Login
+Feature
 
 Steps:
 
