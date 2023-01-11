@@ -1,10 +1,15 @@
 ## Git Practical
 
+## Branch
+--Main(Master)
+--Login
+--Feature
+
 Steps:
 
 1. Pull and Merge difference
 - Make example of pull request and two branch merge event.
-- Created one login branch into master branch and then merge login branch with master branch  using pull request
+- Created one login branch into master branch and then merge login branch with master branch using pull request
 
 
 2. Rebase
